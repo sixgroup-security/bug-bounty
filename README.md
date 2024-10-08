@@ -31,15 +31,15 @@
 
   <!-- Hero Menu with Emojis -->
   <div align="center" style="font-size: 18px;">
-    <a href="#introduction" style="text-decoration: none; padding: 10px;">📖 Introduction</a>
+    <a href="#-introduction" style="text-decoration: none; padding: 10px;">📖 Introduction</a>
     ·
-    <a href="#scopes-public-program" style="text-decoration: none; padding: 10px;">🎯 Scopes</a>
+    <a href="#-scopes-public-program" style="text-decoration: none; padding: 10px;">🎯 Scopes</a>
     ·
-    <a href="#rewards" style="text-decoration: none; padding: 10px;">💰 Rewards</a>
+    <a href="#-rewards" style="text-decoration: none; padding: 10px;">💰 Rewards</a>
     ·
-    <a href="#hall-of-fame" style="text-decoration: none; padding: 10px;">🏆 Hall of Fame</a>
+    <a href="#-hall-of-fame" style="text-decoration: none; padding: 10px;">🏆 Hall of Fame</a>
     ·
-    <a href="#eligibility-guidelines" style="text-decoration: none; padding: 10px;">🤝 Participation</a>
+    <a href="#-eligibility-guidelines" style="text-decoration: none; padding: 10px;">🤝 Participation</a>
   </div>
 </div>
 
