@@ -29,6 +29,14 @@
   </table>
   </div>
 
+    <!-- New Submit Report Button -->
+
+  <div align="center" style="margin-top: 20px;">
+    <a href="https://hackerone.com/six-group/reports/new?type=team&report_type=vulnerability">
+      <img src="/assets/buttons/submit-report-button.svg" alt="Submit Report" width="250" />
+    </a>
+  </div>
+
   <!-- Hero Menu with Emojis -->
   <div align="center" style="font-size: 18px;">
     <a href="#introduction" style="text-decoration: none; padding: 10px;">📖 Introduction</a>
