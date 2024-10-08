@@ -86,10 +86,10 @@ We acknowledge the contributions of top researchers. Below are those who have ea
 
 <div align="center">
   <!-- Hall of Fame SVG 1 -->
-  <object type="image/svg+xml" data="/assets/halloffame/johndoe.svg" width="400" height="200"></object>
+  <img src="/assets/halloffame/johndoe.svg" width="400" height="200" />
   
   <!-- Hall of Fame SVG 2 -->
-  <object type="image/svg+xml" data="/assets/halloffame/janedoe.svg" width="400" height="200"></object>
+  <img src="/assets/halloffame/janedoe.svg" width="400" height="200" />
 
   <!-- Add more Hall of Fame entries below as needed -->
 </div>
