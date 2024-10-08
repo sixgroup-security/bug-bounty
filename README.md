@@ -1,5 +1,3 @@
-# Bug Bounty 🐛 | SIX Group AG
-
 <!-- DOCUMENT Hero -->
 <div align="center">
   <!-- Use the SVG as the hero -->
@@ -14,6 +12,12 @@
   </p>
 
   <!-- SVG Buttons for Public and Private Programs -->
+  <div>
+  <style>
+td, th {
+   border: none!important;
+}
+</style>
   <table border="0" width="100%" cellspacing="20">
     <tr>
       <td align="center" width="50%">
@@ -28,6 +32,7 @@
       </td>
     </tr>
   </table>
+  </div>
 
   <!-- Hero Menu with Emojis -->
   <div align="center" style="font-size: 18px;">
