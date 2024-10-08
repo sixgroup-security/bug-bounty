@@ -82,7 +82,19 @@ For more details on our reward structure, visit the _[public bug bounty program 
 
 ## 🏆 Hall of Fame
 
-We acknowledge the contributions of top researchers and feature them in our **Hall of Fame**. Earn your spot by consistently reporting critical vulnerabilities. Check out the leaderboard _[here ⤴](https://hackerone.com/six-group/thanks)_.
+We acknowledge the contributions of top researchers. Below are those who have earned their place in the Hall of Fame:
+
+<div align="center">
+  <!-- Hall of Fame SVG 1 -->
+  <object type="image/svg+xml" data="/assets/halloffame/johndoe.svg" width="400" height="200"></object>
+  
+  <!-- Hall of Fame SVG 2 -->
+  <object type="image/svg+xml" data="/assets/halloffame/janedoe.svg" width="400" height="200"></object>
+
+  <!-- Add more Hall of Fame entries below as needed -->
+</div>
+
+Check out the leaderboard _[here ⤴](https://hackerone.com/six-group/thanks)_.
 
 ---
 
