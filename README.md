@@ -13,11 +13,6 @@
 
   <!-- SVG Buttons for Public and Private Programs -->
   <div>
-  <style>
-td, th {
-   border: none!important;
-}
-</style>
   <table border="0" width="100%" cellspacing="20">
     <tr>
       <td align="center" width="50%">
