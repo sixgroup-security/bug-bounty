@@ -1,25 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="200">
   <!-- Background card with rounded corners -->
-  <rect width="100%" height="100%" rx="15" ry="15" fill="white" stroke="black" stroke-width="1" />
+  <rect width="100%" height="100%" rx="15" ry="15" fill="white" stroke="#d3d3d3" stroke-width="1" />
 
   <!-- Circle for profile picture -->
-  <circle cx="50" cy="60" r="40" fill="#d3d3d3" />
+  <circle cx="60" cy="60" r="40" fill="#d3d3d3" />
 
   <!-- Name and Description -->
-  <text x="120" y="50" font-family="Arial" font-size="20" fill="black">John Doe</text>
-  <text x="120" y="80" font-family="Arial" font-size="14" fill="gray">Top Security Researcher</text>
-  <text x="50" y="150" font-family="Arial" font-size="14" fill="black">Recognized for critical contributions to web security.</text>
+  <text x="140" y="50" font-family="Arial" font-size="20" font-weight="bold" fill="black">John Doe</text>
+  <text x="140" y="80" font-family="Arial" font-size="14" fill="gray">Top Security Researcher</text>
+
+  <!-- Hall of Fame reason text -->
+  <text x="60" y="130" font-family="Arial" font-size="14" fill="black">Recognized for critical contributions to web security.</text>
 
   <!-- Social Icons (LinkedIn, GitHub, Instagram) -->
   <!-- LinkedIn -->
-  <rect x="300" y="160" width="30" height="30" fill="#0077B5" rx="5" ry="5" />
-  <text x="310" y="180" font-family="Arial" font-size="18" fill="white">in</text>
+  <rect x="290" y="150" width="30" height="30" fill="#0077B5" rx="5" ry="5" />
+  <text x="300" y="170" font-family="Arial" font-size="16" fill="white">in</text>
 
   <!-- GitHub -->
-  <rect x="340" y="160" width="30" height="30" fill="#333" rx="5" ry="5" />
-  <text x="350" y="180" font-family="Arial" font-size="18" fill="white">🐱</text>
+  <rect x="330" y="150" width="30" height="30" fill="#333" rx="5" ry="5" />
+  <text x="340" y="170" font-family="Arial" font-size="16" fill="white">🐱</text>
 
   <!-- Instagram -->
-  <rect x="380" y="160" width="30" height="30" fill="#E1306C" rx="5" ry="5" />
-  <text x="390" y="180" font-family="Arial" font-size="18" fill="white">📷</text>
+  <rect x="370" y="150" width="30" height="30" fill="#E1306C" rx="5" ry="5" />
+  <text x="380" y="170" font-family="Arial" font-size="16" fill="white">📷</text>
 </svg>
