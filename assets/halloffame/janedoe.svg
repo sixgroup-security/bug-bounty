@@ -10,10 +10,10 @@
   <text x="140" y="80" font-family="Arial" font-size="14" fill="gray">Top Security Researcher</text>
 
   <!-- Trophy icon -->
-  <text x="10" y="130" font-family="Arial" font-size="16" fill="gold">🏆</text>
+  <text x="20" y="130" font-family="Arial" font-size="16" fill="gold">🏆</text>
 
   <!-- Hall of Fame reason text aligned with the profile picture -->
-  <text x="30" y="130" font-family="Arial" font-size="14" fill="black">Recognized for critical contributions to web security.</text>
+  <text x="40" y="130" font-family="Arial" font-size="14" fill="black">Recognized for critical contributions to web security.</text>
 
   <!-- Social Icons (LinkedIn, GitHub, Instagram) with more spacing -->
   <!-- LinkedIn -->
