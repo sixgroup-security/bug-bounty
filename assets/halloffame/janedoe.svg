@@ -9,19 +9,22 @@
   <text x="140" y="50" font-family="Arial" font-size="20" font-weight="bold" fill="black">John Doe</text>
   <text x="140" y="80" font-family="Arial" font-size="14" fill="gray">Top Security Researcher</text>
 
-  <!-- Hall of Fame reason text -->
-  <text x="60" y="130" font-family="Arial" font-size="14" fill="black">Recognized for critical contributions to web security.</text>
+  <!-- Trophy icon -->
+  <text x="60" y="130" font-family="Arial" font-size="16" fill="gold">🏆</text>
 
-  <!-- Social Icons (LinkedIn, GitHub, Instagram) -->
+  <!-- Hall of Fame reason text aligned with the profile picture -->
+  <text x="80" y="130" font-family="Arial" font-size="14" fill="black">Recognized for critical contributions to web security.</text>
+
+  <!-- Social Icons (LinkedIn, GitHub, Instagram) with more spacing -->
   <!-- LinkedIn -->
-  <rect x="290" y="150" width="30" height="30" fill="#0077B5" rx="5" ry="5" />
-  <text x="300" y="170" font-family="Arial" font-size="16" fill="white">in</text>
+  <rect x="270" y="150" width="30" height="30" fill="#0077B5" rx="5" ry="5" />
+  <text x="280" y="170" font-family="Arial" font-size="16" fill="white">in</text>
 
   <!-- GitHub -->
-  <rect x="330" y="150" width="30" height="30" fill="#333" rx="5" ry="5" />
-  <text x="340" y="170" font-family="Arial" font-size="16" fill="white">🐱</text>
+  <rect x="310" y="150" width="30" height="30" fill="#333" rx="5" ry="5" />
+  <text x="320" y="170" font-family="Arial" font-size="16" fill="white">🐱</text>
 
   <!-- Instagram -->
-  <rect x="370" y="150" width="30" height="30" fill="#E1306C" rx="5" ry="5" />
-  <text x="380" y="170" font-family="Arial" font-size="16" fill="white">📷</text>
+  <rect x="350" y="150" width="30" height="30" fill="#E1306C" rx="5" ry="5" />
+  <text x="360" y="170" font-family="Arial" font-size="16" fill="white">📷</text>
 </svg>
