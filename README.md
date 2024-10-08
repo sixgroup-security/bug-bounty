@@ -29,14 +29,6 @@
   </table>
   </div>
 
-    <!-- New Submit Report Button -->
-
-  <div align="center" style="margin-top: 20px;">
-    <a href="https://hackerone.com/six-group/reports/new?type=team&report_type=vulnerability">
-      <img src="/assets/buttons/submit-report-button.svg" alt="Submit Report" width="250" />
-    </a>
-  </div>
-
   <!-- Hero Menu with Emojis -->
   <div align="center" style="font-size: 18px;">
     <a href="#introduction" style="text-decoration: none; padding: 10px;">📖 Introduction</a>
@@ -58,6 +50,14 @@
 SIX Group AG is committed to improving the security of its internet-facing applications. We have partnered with HackerOne, the leading bug bounty platform, to invite ethical hackers to identify and report vulnerabilities in our systems.
 
 The public program is open to all security researchers, while the private program is invite-only for selected experts. Both programs provide round-the-clock vulnerability detection and reward researchers based on the criticality of their findings.
+
+<div align="center">
+  <div align="center" style="margin-top: 20px;">
+    <a href="https://hackerone.com/six-group/reports/new?type=team&report_type=vulnerability">
+      <img src="/assets/buttons/submit-report-button.svg" alt="Submit Report" width="250" />
+    </a>
+  </div>
+</div>
 
 ---
 
