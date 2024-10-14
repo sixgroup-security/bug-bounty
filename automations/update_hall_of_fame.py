@@ -133,7 +133,6 @@ def write_to_test_readme(hall_of_fame):
     print(f"{test_readme_file} has been created/updated with the Hall of Fame.")
 
 def update_readme(hall_of_fame):
-    print("++ GITHUB_REPO ++", GITHUB_REPO)
     repo_url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/README.md"
     
     # Get the README file from the repository
@@ -142,17 +141,13 @@ def update_readme(hall_of_fame):
         raise Exception(f"Failed to get README.md: {response.status_code}, {response.text}")
     
     readme_data = response.json()
-    readme_content = readme_data['content']
+    readme_content = b64decode(readme_data['content']).decode("utf-8")  # Decode the README.md content
     
-    # Decode from Base64
-    decoded_readme = b64decode(readme_content).decode("utf-8")
-    
-    # Build the new Hall of Fame content
+    # Build the new Hall of Fame content (the tables with hacker profiles)
     hall_of_fame_str = ""
 
     # Sort the hall_of_fame dictionary by year descending and month order
     for year in sorted(hall_of_fame.keys(), reverse=True):
-        # Sort months using the MONTH_ORDER dictionary
         sorted_months = sorted(hall_of_fame[year].keys(), key=lambda m: MONTH_ORDER[m], reverse=True)
 
         for month in sorted_months:
@@ -168,7 +163,6 @@ def update_readme(hall_of_fame):
 
                 # Add each report as a row in the table
                 for report in reports:
-                    # Using inline HTML to set fixed width and height (50x50) for the profile picture
                     profile_picture = f'<img src="{report["profile_picture_url"]}" width="50" height="50" style="border-radius:50%"/>'
                     hacker_link = f"[{report['hacker_username']}]({report['hacker_profile_url']})"
                     hall_of_fame_str += f"| {profile_picture} | {hacker_link} |\n"
@@ -176,15 +170,18 @@ def update_readme(hall_of_fame):
                 # Add some space after each table
                 hall_of_fame_str += "\n"
 
-    # Find the "## Hall Of Fame" section and update it
-    updated_content = ""
-    if "## Hall Of Fame" in decoded_readme:
-        updated_content = decoded_readme.split("## Hall Of Fame")[0] + "## Hall Of Fame\n" + hall_of_fame_str
+    # The specific text to search for
+    insertion_point_text = "We acknowledge the contributions of top researchers. Below are those who have earned their place in the Hall of Fame:"
+
+    # Find where this specific text occurs in the README.md file
+    if insertion_point_text in readme_content:
+        # Insert the tables directly after this specific text
+        updated_content = readme_content.replace(insertion_point_text, insertion_point_text + "\n\n" + hall_of_fame_str)
     else:
-        # Append Hall of Fame if not already present
-        updated_content = decoded_readme + "\n\n## Hall Of Fame\n" + hall_of_fame_str
+        # Append Hall of Fame if the specific text is not found (fallback behavior)
+        updated_content = readme_content + "\n\n## Hall of Fame\n" + hall_of_fame_str
     
-    # Encode content back to Base64
+    # Encode the content back to Base64
     updated_content_encoded = b64encode(updated_content.encode("utf-8")).decode("utf-8")
 
     # Update the README file
