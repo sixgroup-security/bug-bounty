@@ -1,0 +1,29 @@
+name: Update Hall of Fame
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x # Specify the Python version you want
+
+      - name: Install dependencies
+        run: pip install -r automations/requirements.txt
+
+      - name: Run the update script
+        env:
+          HACKERONE_API_KEY: ${{ secrets.HACKERONE_API_KEY }}
+          HACKERONE_API_USERNAME: ${{ secrets.HACKERONE_API_USERNAME }}
+          X_GITHUB_TOKEN: ${{ secrets.X_GITHUB_TOKEN }}
+          X_GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python automations/update_hall_of_fame.py
