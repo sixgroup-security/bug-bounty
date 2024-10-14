@@ -173,18 +173,17 @@ def update_readme(hall_of_fame):
                 hall_of_fame_str += "\n"
 
     # The specific text to search for
-    insertion_point_text = "Check out the leaderboard"
+    start_text = "We acknowledge the contributions of top researchers. Below are those who have earned their place in the Hall of Fame:"
+    end_text = "Check out the leaderboard"
 
-    # Find where this specific text occurs in the README.md file
-    if insertion_point_text in readme_content:
-        # Split the content, remove the old table, and insert the new one
-        parts = readme_content.split(insertion_point_text)
-        
-        # Insert the new Hall of Fame before "Check out the leaderboard"
-        updated_content = parts[0] + "\n\n" + hall_of_fame_str + "\n\n" + insertion_point_text + parts[1]
+    # Find where these specific texts occur in the README.md file
+    if start_text in readme_content and end_text in readme_content:
+        # Remove the old Hall of Fame content between the start and end texts
+        start_index = readme_content.index(start_text) + len(start_text)
+        end_index = readme_content.index(end_text)
+        updated_content = readme_content[:start_index] + "\n\n" + hall_of_fame_str + "\n\n" + readme_content[end_index:]
     else:
-        # Append Hall of Fame if the specific text is not found (fallback behavior)
-        updated_content = readme_content + "\n\n## Hall of Fame\n" + hall_of_fame_str
+        raise Exception(f"Could not find the required sections in README.md")
     
     # Encode the content back to Base64
     updated_content_encoded = b64encode(updated_content.encode("utf-8")).decode("utf-8")
