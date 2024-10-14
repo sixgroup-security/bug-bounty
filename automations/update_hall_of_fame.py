@@ -173,12 +173,15 @@ def update_readme(hall_of_fame):
                 hall_of_fame_str += "\n"
 
     # The specific text to search for
-    insertion_point_text = "We acknowledge the contributions of top researchers. Below are those who have earned their place in the Hall of Fame:"
+    insertion_point_text = "Check out the leaderboard"
 
     # Find where this specific text occurs in the README.md file
     if insertion_point_text in readme_content:
-        # Insert the tables directly after this specific text
-        updated_content = readme_content.replace(insertion_point_text, insertion_point_text + "\n\n" + hall_of_fame_str)
+        # Split the content, remove the old table, and insert the new one
+        parts = readme_content.split(insertion_point_text)
+        
+        # Insert the new Hall of Fame before "Check out the leaderboard"
+        updated_content = parts[0] + "\n\n" + hall_of_fame_str + "\n\n" + insertion_point_text + parts[1]
     else:
         # Append Hall of Fame if the specific text is not found (fallback behavior)
         updated_content = readme_content + "\n\n## Hall of Fame\n" + hall_of_fame_str
