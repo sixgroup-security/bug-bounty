@@ -85,12 +85,14 @@ def format_hall_of_fame(data):
         profile_picture_url = hacker_data['profile_picture']['62x62']  # Using the 62x62 size
         hacker_profile_url = f"https://hackerone.com/{hacker_username}"
 
-        # Append the hacker information to the hall of fame structure
-        hall_of_fame[year][month].append({
-            "hacker_username": hacker_username,
-            "profile_picture_url": profile_picture_url,
-            "hacker_profile_url": hacker_profile_url
-        })
+        # Check if this hacker is already in the hall of fame for this month to avoid duplication
+        if not any(entry['hacker_username'] == hacker_username for entry in hall_of_fame[year][month]):
+            # Append the hacker information to the hall of fame structure if not a duplicate
+            hall_of_fame[year][month].append({
+                "hacker_username": hacker_username,
+                "profile_picture_url": profile_picture_url,
+                "hacker_profile_url": hacker_profile_url
+            })
     
     return hall_of_fame
 
