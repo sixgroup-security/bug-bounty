@@ -31,15 +31,15 @@
 
   <!-- Hero Menu with Emojis -->
   <div align="center" style="font-size: 18px;">
-    <a href="#-introduction" style="text-decoration: none; padding: 10px;">📖 Introduction</a>
+    📖 <a href="#-introduction" style="text-decoration: none; padding: 10px;">Introduction</a>
     ·
-    <a href="#-scopes-public-program" style="text-decoration: none; padding: 10px;">🎯 Scopes</a>
+    💰 <a href="#-rewards" style="text-decoration: none; padding: 10px;">Rewards</a>
     ·
-    <a href="#-rewards" style="text-decoration: none; padding: 10px;">💰 Rewards</a>
+    🏆 <a href="#-hall-of-fame" style="text-decoration: none; padding: 10px;">Hall of Fame</a>
     ·
-    <a href="#-hall-of-fame" style="text-decoration: none; padding: 10px;">🏆 Hall of Fame</a>
-    ·
-    <a href="#-eligibility-guidelines" style="text-decoration: none; padding: 10px;">🤝 Participation</a>
+    🤝 <a href="#-eligibility-guidelines" style="text-decoration: none; padding: 10px;">Guidelines</a>
+    .
+    🛡️ <a href="#-safe-harbor" style="text-decoration: none; padding: 10px;">Safe Harbor</a>
   </div>
 </div>
 
@@ -61,20 +61,11 @@ The public program is open to all security researchers, while the private progra
 
 ---
 
-## 🎯 Scopes (Public Program)
-
-| Asset Name        | Type     | Coverage     | Max Severity | Bounty        |
-| ----------------- | -------- | ------------ | ------------ | ------------- |
-| www.six-group.com | Domain   | In scope     | 🔴 Critical  | 💰 Eligible   |
-| \*.six-group.com  | Wildcard | Out of scope | 🔵 None      | 🚫 Ineligible |
-
----
-
 ## 💰 Rewards
 
 | 🟢 Low | 🟡 Medium | 🟠 High | 🔴 Critical |
 | :----: | :-------: | :-----: | :---------: |
-|  $500  |  $1,000   | $5,000  |   $10,000   |
+|  $200–$500 |  $750–$1,500   | $1,500–$3,000  |   $5,000–$7,500   |
 
 For more details on our reward structure, visit the _[public bug bounty program page ⤴](https://hackerone.com/six-group)_.
 
@@ -85,13 +76,7 @@ For more details on our reward structure, visit the _[public bug bounty program 
 We acknowledge the contributions of top researchers. Below are those who have earned their place in the Hall of Fame:
 
 <div align="center">
-  <!-- Hall of Fame SVG 1 -->
-  <img src="/assets/halloffame/johndoe.svg" width="400" height="200" />
-  
-  <!-- Hall of Fame SVG 2 -->
-  <img src="/assets/halloffame/janedoe.svg" width="400" height="200" />
-
-  <!-- Add more Hall of Fame entries below as needed -->
+  <!-- tba -->
 </div>
 
 Check out the leaderboard _[here ⤴](https://hackerone.com/six-group/thanks)_.
