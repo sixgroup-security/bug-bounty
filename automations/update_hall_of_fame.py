@@ -27,8 +27,8 @@ HACKERONE_HEADERS = {
 }
 
 GITHUB_HEADERS = {
-    "Authorization": f"token {GITHUB_TOKEN}",
-    "Accept": "application/vnd.github.v3+json"
+    "Authorization": f"Bearer {GITHUB_TOKEN}",
+    "Accept": "application/vnd.github+json"
 }
 
 # HackerOne API endpoint for reports data
