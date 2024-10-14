@@ -133,6 +133,7 @@ def write_to_test_readme(hall_of_fame):
     print(f"{test_readme_file} has been created/updated with the Hall of Fame.")
 
 def update_readme(hall_of_fame):
+    print("++ GITHUB_REPO ++", GITHUB_REPO)
     repo_url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/README.md"
     
     # Get the README file from the repository
