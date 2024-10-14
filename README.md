@@ -33,13 +33,11 @@
   <div align="center" style="font-size: 18px;">
     <a href="#-introduction" style="text-decoration: none; padding: 10px;">📖 Introduction</a>
     ·
-    <a href="#-scopes-public-program" style="text-decoration: none; padding: 10px;">🎯 Scopes</a>
-    ·
     <a href="#-rewards" style="text-decoration: none; padding: 10px;">💰 Rewards</a>
     ·
     <a href="#-hall-of-fame" style="text-decoration: none; padding: 10px;">🏆 Hall of Fame</a>
     ·
-    <a href="#-eligibility-guidelines" style="text-decoration: none; padding: 10px;">🤝 Participation</a>
+    <a href="#-eligibility-guidelines" style="text-decoration: none; padding: 10px;">🤝 Guidelines</a>
   </div>
 </div>
 
@@ -58,15 +56,6 @@ The public program is open to all security researchers, while the private progra
     </a>
   </div>
 </div>
-
----
-
-## 🎯 Scopes (Public Program)
-
-| Asset Name        | Type     | Coverage     | Max Severity | Bounty        |
-| ----------------- | -------- | ------------ | ------------ | ------------- |
-| www.six-group.com | Domain   | In scope     | 🔴 Critical  | 💰 Eligible   |
-| \*.six-group.com  | Wildcard | Out of scope | 🔵 None      | 🚫 Ineligible |
 
 ---
 

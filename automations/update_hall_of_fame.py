@@ -34,6 +34,12 @@ GITHUB_HEADERS = {
 # HackerOne API endpoint for reports data
 HACKERONE_API_URL = "https://api.hackerone.com/v1/reports"
 
+# Dictionary to correctly map months to their respective numbers for sorting
+MONTH_ORDER = {
+    "January": 1, "February": 2, "March": 3, "April": 4, "May": 5, "June": 6,
+    "July": 7, "August": 8, "September": 9, "October": 10, "November": 11, "December": 12
+}
+
 def fetch_hackerone_data():
     # Define the programs you want to filter by
     programs = ['six-group-private', 'six-group']
@@ -73,21 +79,17 @@ def format_hall_of_fame(data):
         if month not in hall_of_fame[year]:
             hall_of_fame[year][month] = []
 
-        # Extract the hacker and report information
+        # Extract the hacker information
         hacker_data = report['relationships']['reporter']['data']['attributes']
         hacker_username = hacker_data['username']
         profile_picture_url = hacker_data['profile_picture']['62x62']  # Using the 62x62 size
         hacker_profile_url = f"https://hackerone.com/{hacker_username}"
-        report_title = report['attributes'].get('title', 'No Title')
-        program_name = report['relationships']['program']['data']['attributes'].get('handle', 'Unknown Program')
 
-        # Append the report information to the hall of fame structure
+        # Append the hacker information to the hall of fame structure
         hall_of_fame[year][month].append({
             "hacker_username": hacker_username,
             "profile_picture_url": profile_picture_url,
-            "hacker_profile_url": hacker_profile_url,
-            "program_name": program_name,
-            "report_title": report_title
+            "hacker_profile_url": hacker_profile_url
         })
     
     return hall_of_fame
@@ -98,8 +100,12 @@ def write_to_test_readme(hall_of_fame):
     # Begin with an empty string to build the content
     readme_content = "# Test Hall of Fame\n\n"
 
-    for year in sorted(hall_of_fame.keys(), reverse=True):  # Sort years descending
-        for month in sorted(hall_of_fame[year].keys(), reverse=True):  # Sort months descending
+    # Sort the hall_of_fame dictionary by year descending and month order
+    for year in sorted(hall_of_fame.keys(), reverse=True):
+        # Sort months using the MONTH_ORDER dictionary
+        sorted_months = sorted(hall_of_fame[year].keys(), key=lambda m: MONTH_ORDER[m], reverse=True)
+
+        for month in sorted_months:
             reports = hall_of_fame[year][month]
 
             if reports:
@@ -107,14 +113,15 @@ def write_to_test_readme(hall_of_fame):
                 readme_content += f"### {month} {year}\n\n"
 
                 # Create table header
-                readme_content += "| Profile | Hacker | Program Name | Report Title |\n"
-                readme_content += "|---------|--------|--------------|--------------|\n"
+                readme_content += "| Profile | Hacker |\n"
+                readme_content += "|---------|--------|\n"
 
                 # Add each report as a row in the table
                 for report in reports:
-                    profile_picture = f"![Profile Picture]({report['profile_picture_url']})"
+                    # Using inline HTML to set fixed width and height (50x50) for the profile picture
+                    profile_picture = f'<img src="{report["profile_picture_url"]}" width="50" height="50" style="border-radius:50%"/>'
                     hacker_link = f"[{report['hacker_username']}]({report['hacker_profile_url']})"
-                    readme_content += f"| {profile_picture} | {hacker_link} | {report['program_name']} | {report['report_title']} |\n"
+                    readme_content += f"| {profile_picture} | {hacker_link} |\n"
 
                 # Add some space after each table
                 readme_content += "\n"
@@ -141,8 +148,13 @@ def update_readme(hall_of_fame):
     
     # Build the new Hall of Fame content
     hall_of_fame_str = ""
-    for year in sorted(hall_of_fame.keys(), reverse=True):  # Sort years descending
-        for month in sorted(hall_of_fame[year].keys(), reverse=True):  # Sort months descending
+
+    # Sort the hall_of_fame dictionary by year descending and month order
+    for year in sorted(hall_of_fame.keys(), reverse=True):
+        # Sort months using the MONTH_ORDER dictionary
+        sorted_months = sorted(hall_of_fame[year].keys(), key=lambda m: MONTH_ORDER[m], reverse=True)
+
+        for month in sorted_months:
             reports = hall_of_fame[year][month]
 
             if reports:
@@ -150,14 +162,15 @@ def update_readme(hall_of_fame):
                 hall_of_fame_str += f"### {month} {year}\n\n"
 
                 # Create table header
-                hall_of_fame_str += "| Profile | Hacker | Program Name | Report Title |\n"
-                hall_of_fame_str += "|---------|--------|--------------|--------------|\n"
+                hall_of_fame_str += "| Profile | Hacker |\n"
+                hall_of_fame_str += "|---------|--------|\n"
 
                 # Add each report as a row in the table
                 for report in reports:
-                    profile_picture = f"![Profile Picture]({report['profile_picture_url']})"
+                    # Using inline HTML to set fixed width and height (50x50) for the profile picture
+                    profile_picture = f'<img src="{report["profile_picture_url"]}" width="50" height="50" style="border-radius:50%"/>'
                     hacker_link = f"[{report['hacker_username']}]({report['hacker_profile_url']})"
-                    hall_of_fame_str += f"| {profile_picture} | {hacker_link} | {report['program_name']} | {report['report_title']} |\n"
+                    hall_of_fame_str += f"| {profile_picture} | {hacker_link} |\n"
 
                 # Add some space after each table
                 hall_of_fame_str += "\n"
