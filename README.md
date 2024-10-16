@@ -79,9 +79,9 @@ We acknowledge the contributions of top researchers. Below are those who have ea
 
 | Profile | Hacker |
 |---------|--------|
+| <img src="https://profile-photos.hackerone-user-content.com/variants/jb7nndq8uyctvoyndlgnb0i8eqik/991f7c316ce3d98bfb15895c7535ea637ccdd4b30e65e04419eeb40418ab222c" width="50" height="50" style="border-radius:50%"/> | [securityreapers](https://hackerone.com/securityreapers) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/o5f7z42wlduwexmt9icv44jezrw2/2566162fa3350b3517685f353721a248ee79b72e4d5c9b8bb76c9a12340451cb" width="50" height="50" style="border-radius:50%"/> | [iieitaimuss](https://hackerone.com/iieitaimuss) |
 | <img src="/assets/avatars/default-37cb1f95dce5579ca4e085abd4cc8380a94525a4f44f94e5f3750864d0b84124.png" width="50" height="50" style="border-radius:50%"/> | [vinhhp16](https://hackerone.com/vinhhp16) |
-| <img src="https://profile-photos.hackerone-user-content.com/variants/jb7nndq8uyctvoyndlgnb0i8eqik/991f7c316ce3d98bfb15895c7535ea637ccdd4b30e65e04419eeb40418ab222c" width="50" height="50" style="border-radius:50%"/> | [securityreapers](https://hackerone.com/securityreapers) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/nhus99p9awpg5i4petjn86irw5ng/991f7c316ce3d98bfb15895c7535ea637ccdd4b30e65e04419eeb40418ab222c" width="50" height="50" style="border-radius:50%"/> | [0xpugal](https://hackerone.com/0xpugal) |
 
 ### September 2024
@@ -152,7 +152,6 @@ We acknowledge the contributions of top researchers. Below are those who have ea
 | <img src="https://profile-photos.hackerone-user-content.com/variants/g7o0qztlvm8eugv27ej0ph95cu3f/b55a9f491e32dab72d30528f177439f4393d5c809c6c3c197131c903cb4306da" width="50" height="50" style="border-radius:50%"/> | [geedus](https://hackerone.com/geedus) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/wfsoeb5bjk40eqr40ipjj436zegr/991f7c316ce3d98bfb15895c7535ea637ccdd4b30e65e04419eeb40418ab222c" width="50" height="50" style="border-radius:50%"/> | [b11r1m_h1](https://hackerone.com/b11r1m_h1) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/i14grtiaizzn2a6b8e60feyjd256/b55a9f491e32dab72d30528f177439f4393d5c809c6c3c197131c903cb4306da" width="50" height="50" style="border-radius:50%"/> | [chintapakdamdam](https://hackerone.com/chintapakdamdam) |
-| <img src="https://profile-photos.hackerone-user-content.com/variants/d9bmkjhobxjeyh1o0gouitfpux8j/2566162fa3350b3517685f353721a248ee79b72e4d5c9b8bb76c9a12340451cb" width="50" height="50" style="border-radius:50%"/> | [rhack](https://hackerone.com/rhack) |
 
 
 
