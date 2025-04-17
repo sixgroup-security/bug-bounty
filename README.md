@@ -75,15 +75,21 @@ For more details on our reward structure, visit the _[public bug bounty program 
 
 We acknowledge the contributions of top researchers. Below are those who have earned their place in the Hall of Fame:
 
+### April 2025
+
+| Profile | Hacker |
+|---------|--------|
+| <img src="https://profile-photos.hackerone-user-content.com/variants/hd18u7hmujm57suczajmruv2bb08/c2420b0f7b8449e4bb6356b36bb1a5fdaf8a082a1e2aa914029689b16fbaa9b0" width="50" height="50" style="border-radius:50%"/> | [ariel1l](https://hackerone.com/ariel1l) |
+
 ### February 2025
 
 | Profile | Hacker |
 |---------|--------|
+| <img src="/assets/avatars/default-14ffa99f59cd01423c64904352cc130ffcb6a802eadfd11777a54485749e60f2.png" width="50" height="50" style="border-radius:50%"/> | [lsxa](https://hackerone.com/lsxa) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/ese0t9j4019i350exair1rq9syug/727634197f209244e4307a490cdcd36c76d6e37fef1b0c164bd35ac010105f99" width="50" height="50" style="border-radius:50%"/> | [0xsheet](https://hackerone.com/0xsheet) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/o9m7oh7icacf7g3pwc24rxnhhtwz/727634197f209244e4307a490cdcd36c76d6e37fef1b0c164bd35ac010105f99" width="50" height="50" style="border-radius:50%"/> | [erg0sum](https://hackerone.com/erg0sum) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/jyF31fJppgzmNHbDpRMe23Ru/d86f3034cedc97192c6e25b49fb25d458f11529df403793678d43ead36f13cc4" width="50" height="50" style="border-radius:50%"/> | [d0xing](https://hackerone.com/d0xing) |
 | <img src="/assets/avatars/default-14ffa99f59cd01423c64904352cc130ffcb6a802eadfd11777a54485749e60f2.png" width="50" height="50" style="border-radius:50%"/> | [discoliskosikari](https://hackerone.com/discoliskosikari) |
-| <img src="/assets/avatars/default-14ffa99f59cd01423c64904352cc130ffcb6a802eadfd11777a54485749e60f2.png" width="50" height="50" style="border-radius:50%"/> | [lsxa](https://hackerone.com/lsxa) |
 
 ### January 2025
 
@@ -114,7 +120,6 @@ We acknowledge the contributions of top researchers. Below are those who have ea
 |---------|--------|
 | <img src="https://profile-photos.hackerone-user-content.com/variants/vyC75Ahqgs71NFmwarUBLqSD/36bca6668139d77be42208d896968344ae7a76c55ee0f8b0f28281ccd492ff02" width="50" height="50" style="border-radius:50%"/> | [todayisnew](https://hackerone.com/todayisnew) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/i88tih6jrmgvov4z8gc3gemm7i96/36bca6668139d77be42208d896968344ae7a76c55ee0f8b0f28281ccd492ff02" width="50" height="50" style="border-radius:50%"/> | [e1ec30](https://hackerone.com/e1ec30) |
-| <img src="https://profile-photos.hackerone-user-content.com/variants/3ppl2el5na61bs35p1orhv7f8nij/36bca6668139d77be42208d896968344ae7a76c55ee0f8b0f28281ccd492ff02" width="50" height="50" style="border-radius:50%"/> | [m0chan](https://hackerone.com/m0chan) |
 
 
 
