@@ -80,7 +80,7 @@ We acknowledge the contributions of top researchers. Below are those who have ea
 | Profile | Hacker |
 |---------|--------|
 | <img src="/assets/avatars/default-14ffa99f59cd01423c64904352cc130ffcb6a802eadfd11777a54485749e60f2.png" width="50" height="50" style="border-radius:50%"/> | [modc](https://hackerone.com/modc) |
-| <img src="https://profile-photos.hackerone-user-content.com/variants/n2pw2yfsrmv3ur5zbkkqb851iso2/36bca6668139d77be42208d896968344ae7a76c55ee0f8b0f28281ccd492ff02" width="50" height="50" style="border-radius:50%"/> | [0xhacker1xox](https://hackerone.com/0xhacker1xox) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/dhmwlett1h64puvb84dcfdvp367h/727634197f209244e4307a490cdcd36c76d6e37fef1b0c164bd35ac010105f99" width="50" height="50" style="border-radius:50%"/> | [0xhacker1xox](https://hackerone.com/0xhacker1xox) |
 | <img src="/assets/avatars/default-14ffa99f59cd01423c64904352cc130ffcb6a802eadfd11777a54485749e60f2.png" width="50" height="50" style="border-radius:50%"/> | [discoliskosikari](https://hackerone.com/discoliskosikari) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/hd18u7hmujm57suczajmruv2bb08/c2420b0f7b8449e4bb6356b36bb1a5fdaf8a082a1e2aa914029689b16fbaa9b0" width="50" height="50" style="border-radius:50%"/> | [ariel1l](https://hackerone.com/ariel1l) |
 
