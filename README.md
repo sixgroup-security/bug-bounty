@@ -114,12 +114,6 @@ We acknowledge the contributions of top researchers. Below are those who have ea
 | <img src="/assets/avatars/default-14ffa99f59cd01423c64904352cc130ffcb6a802eadfd11777a54485749e60f2.png" width="50" height="50" style="border-radius:50%"/> | [modc](https://hackerone.com/modc) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/o9m7oh7icacf7g3pwc24rxnhhtwz/727634197f209244e4307a490cdcd36c76d6e37fef1b0c164bd35ac010105f99" width="50" height="50" style="border-radius:50%"/> | [erg0sum](https://hackerone.com/erg0sum) |
 
-### December 2024
-
-| Profile | Hacker |
-|---------|--------|
-| <img src="https://profile-photos.hackerone-user-content.com/variants/rquhSXjcbp8YvL8iTgzXSAjK/727634197f209244e4307a490cdcd36c76d6e37fef1b0c164bd35ac010105f99" width="50" height="50" style="border-radius:50%"/> | [badcracker](https://hackerone.com/badcracker) |
-
 
 
 Check out the leaderboard _[here ⤴](https://hackerone.com/six-group/thanks)_.
