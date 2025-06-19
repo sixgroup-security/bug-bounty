@@ -75,6 +75,12 @@ For more details on our reward structure, visit the _[public bug bounty program 
 
 We acknowledge the contributions of top researchers. Below are those who have earned their place in the Hall of Fame:
 
+### June 2025
+
+| Profile | Hacker |
+|---------|--------|
+| <img src="https://profile-photos.hackerone-user-content.com/variants/o9m7oh7icacf7g3pwc24rxnhhtwz/727634197f209244e4307a490cdcd36c76d6e37fef1b0c164bd35ac010105f99" width="50" height="50" style="border-radius:50%"/> | [erg0sum](https://hackerone.com/erg0sum) |
+
 ### May 2025
 
 | Profile | Hacker |
@@ -118,7 +124,6 @@ We acknowledge the contributions of top researchers. Below are those who have ea
 | <img src="https://profile-photos.hackerone-user-content.com/variants/k52p2yhganjk6taf3od2cvjbj2oq/727634197f209244e4307a490cdcd36c76d6e37fef1b0c164bd35ac010105f99" width="50" height="50" style="border-radius:50%"/> | [securityreapers](https://hackerone.com/securityreapers) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/z216amz2dg3r4xq56oohvb355xd6/727634197f209244e4307a490cdcd36c76d6e37fef1b0c164bd35ac010105f99" width="50" height="50" style="border-radius:50%"/> | [cave14](https://hackerone.com/cave14) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/fqjwqfrwhjq4ppqnrgjfansc2iyy/36bca6668139d77be42208d896968344ae7a76c55ee0f8b0f28281ccd492ff02" width="50" height="50" style="border-radius:50%"/> | [0xold](https://hackerone.com/0xold) |
-| <img src="/assets/avatars/default-14ffa99f59cd01423c64904352cc130ffcb6a802eadfd11777a54485749e60f2.png" width="50" height="50" style="border-radius:50%"/> | [modc](https://hackerone.com/modc) |
 
 
 
