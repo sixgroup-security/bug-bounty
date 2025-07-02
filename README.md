@@ -79,6 +79,7 @@ We acknowledge the contributions of top researchers. Below are those who have ea
 
 | Profile | Hacker |
 |---------|--------|
+| <img src="https://profile-photos.hackerone-user-content.com/variants/z216amz2dg3r4xq56oohvb355xd6/727634197f209244e4307a490cdcd36c76d6e37fef1b0c164bd35ac010105f99" width="50" height="50" style="border-radius:50%"/> | [cave14](https://hackerone.com/cave14) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/axxil2x3w0itqjnj8zt839eoi0gr/727634197f209244e4307a490cdcd36c76d6e37fef1b0c164bd35ac010105f99" width="50" height="50" style="border-radius:50%"/> | [3th1c_yuk1](https://hackerone.com/3th1c_yuk1) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/o9m7oh7icacf7g3pwc24rxnhhtwz/727634197f209244e4307a490cdcd36c76d6e37fef1b0c164bd35ac010105f99" width="50" height="50" style="border-radius:50%"/> | [erg0sum](https://hackerone.com/erg0sum) |
 
@@ -121,8 +122,6 @@ We acknowledge the contributions of top researchers. Below are those who have ea
 |---------|--------|
 | <img src="https://profile-photos.hackerone-user-content.com/variants/wu16z2ockwwycfqa82q784uujdcs/36bca6668139d77be42208d896968344ae7a76c55ee0f8b0f28281ccd492ff02" width="50" height="50" style="border-radius:50%"/> | [dar3maast0](https://hackerone.com/dar3maast0) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/arxmdrbzz03c0mj5ql5hzsxpk1rd/727634197f209244e4307a490cdcd36c76d6e37fef1b0c164bd35ac010105f99" width="50" height="50" style="border-radius:50%"/> | [iismailu](https://hackerone.com/iismailu) |
-| <img src="https://profile-photos.hackerone-user-content.com/variants/000/041/816/fbb5de791bc7d60d6ca2b426233c8c90ead15c4e_original.jpg/727634197f209244e4307a490cdcd36c76d6e37fef1b0c164bd35ac010105f99" width="50" height="50" style="border-radius:50%"/> | [konqi](https://hackerone.com/konqi) |
-| <img src="https://profile-photos.hackerone-user-content.com/variants/k52p2yhganjk6taf3od2cvjbj2oq/727634197f209244e4307a490cdcd36c76d6e37fef1b0c164bd35ac010105f99" width="50" height="50" style="border-radius:50%"/> | [securityreapers](https://hackerone.com/securityreapers) |
 
 
 
