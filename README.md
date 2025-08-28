@@ -79,8 +79,8 @@ We acknowledge the contributions of top researchers. Below are those who have ea
 
 | Profile | Hacker |
 |---------|--------|
-| <img src="https://hackerone.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN01vSUE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2088f36a59477fb95f9b7770b3bda20816363b89/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2REdkeVlYWnBkSGxKSWd0RFpXNTBaWElHT3daVU9ndHlaWE5wZW1WSklnczJNbmcyTWw0R093WlVPZ2xqY205d1NTSU9Oako0TmpJck1Dc3dCanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--cc5eff819c90cf7574ae22d73647372b4ba134ef/mhdy3p_cyberpunk_hacker_monster_b6af5b9b-757e-40ed-a0e6-fe5fd3ab99fd.jpg" width="50" height="50" style="border-radius:50%"/> | [cave14](https://hackerone.com/cave14) |
-| <img src="https://hackerone.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFNWYVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cb7998da5a4e914c30b67bfcf2c49e8dbe7766c0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2REdkeVlYWnBkSGxKSWd0RFpXNTBaWElHT3daVU9ndHlaWE5wZW1WSklnczJNbmcyTWw0R093WlVPZ2xqY205d1NTSU9Oako0TmpJck1Dc3dCanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--cc5eff819c90cf7574ae22d73647372b4ba134ef/epic_smiley.jpg" width="50" height="50" style="border-radius:50%"/> | [erg0sum](https://hackerone.com/erg0sum) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/z216amz2dg3r4xq56oohvb355xd6/db3ccc5a012de75c5cb817bc4e2a41ce2dc72af5298d29011cc3a22da1939441" width="50" height="50" style="border-radius:50%"/> | [cave14](https://hackerone.com/cave14) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/o9m7oh7icacf7g3pwc24rxnhhtwz/db3ccc5a012de75c5cb817bc4e2a41ce2dc72af5298d29011cc3a22da1939441" width="50" height="50" style="border-radius:50%"/> | [erg0sum](https://hackerone.com/erg0sum) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/ub4omg23he5qq5zr7jtwb55depbb/db3ccc5a012de75c5cb817bc4e2a41ce2dc72af5298d29011cc3a22da1939441" width="50" height="50" style="border-radius:50%"/> | [d-muhammed](https://hackerone.com/d-muhammed) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/whpok62z8huc3sp494jwfa7ipeuj/db3ccc5a012de75c5cb817bc4e2a41ce2dc72af5298d29011cc3a22da1939441" width="50" height="50" style="border-radius:50%"/> | [3th1c_yuk1](https://hackerone.com/3th1c_yuk1) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/ese0t9j4019i350exair1rq9syug/db3ccc5a012de75c5cb817bc4e2a41ce2dc72af5298d29011cc3a22da1939441" width="50" height="50" style="border-radius:50%"/> | [0xsheet](https://hackerone.com/0xsheet) |
@@ -89,8 +89,8 @@ We acknowledge the contributions of top researchers. Below are those who have ea
 
 | Profile | Hacker |
 |---------|--------|
-| <img src="https://hackerone.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN01vSUE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2088f36a59477fb95f9b7770b3bda20816363b89/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2REdkeVlYWnBkSGxKSWd0RFpXNTBaWElHT3daVU9ndHlaWE5wZW1WSklnczJNbmcyTWw0R093WlVPZ2xqY205d1NTSU9Oako0TmpJck1Dc3dCanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--cc5eff819c90cf7574ae22d73647372b4ba134ef/mhdy3p_cyberpunk_hacker_monster_b6af5b9b-757e-40ed-a0e6-fe5fd3ab99fd.jpg" width="50" height="50" style="border-radius:50%"/> | [cave14](https://hackerone.com/cave14) |
-| <img src="https://hackerone.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFNWYVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cb7998da5a4e914c30b67bfcf2c49e8dbe7766c0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2REdkeVlYWnBkSGxKSWd0RFpXNTBaWElHT3daVU9ndHlaWE5wZW1WSklnczJNbmcyTWw0R093WlVPZ2xqY205d1NTSU9Oako0TmpJck1Dc3dCanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--cc5eff819c90cf7574ae22d73647372b4ba134ef/epic_smiley.jpg" width="50" height="50" style="border-radius:50%"/> | [erg0sum](https://hackerone.com/erg0sum) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/z216amz2dg3r4xq56oohvb355xd6/db3ccc5a012de75c5cb817bc4e2a41ce2dc72af5298d29011cc3a22da1939441" width="50" height="50" style="border-radius:50%"/> | [cave14](https://hackerone.com/cave14) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/o9m7oh7icacf7g3pwc24rxnhhtwz/db3ccc5a012de75c5cb817bc4e2a41ce2dc72af5298d29011cc3a22da1939441" width="50" height="50" style="border-radius:50%"/> | [erg0sum](https://hackerone.com/erg0sum) |
 | <img src="/assets/avatars/default-14ffa99f59cd01423c64904352cc130ffcb6a802eadfd11777a54485749e60f2.png" width="50" height="50" style="border-radius:50%"/> | [discoliskosikari](https://hackerone.com/discoliskosikari) |
 
 ### April 2025
@@ -98,7 +98,7 @@ We acknowledge the contributions of top researchers. Below are those who have ea
 | Profile | Hacker |
 |---------|--------|
 | <img src="/assets/avatars/default-14ffa99f59cd01423c64904352cc130ffcb6a802eadfd11777a54485749e60f2.png" width="50" height="50" style="border-radius:50%"/> | [modc](https://hackerone.com/modc) |
-| <img src="https://hackerone.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNi9PY0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--98f27ceae0f3318e1ffd3250fcbaca62d90ef6d1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2REdkeVlYWnBkSGxKSWd0RFpXNTBaWElHT3daVU9ndHlaWE5wZW1WSklnczJNbmcyTWw0R093WlVPZ2xqY205d1NTSU9Oako0TmpJck1Dc3dCanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--cc5eff819c90cf7574ae22d73647372b4ba134ef/dp.jpg" width="50" height="50" style="border-radius:50%"/> | [0xhacker1xox](https://hackerone.com/0xhacker1xox) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/r9hrceyebdqyfbbvao8e6z61vq19/db3ccc5a012de75c5cb817bc4e2a41ce2dc72af5298d29011cc3a22da1939441" width="50" height="50" style="border-radius:50%"/> | [0xhacker1xox](https://hackerone.com/0xhacker1xox) |
 | <img src="/assets/avatars/default-14ffa99f59cd01423c64904352cc130ffcb6a802eadfd11777a54485749e60f2.png" width="50" height="50" style="border-radius:50%"/> | [discoliskosikari](https://hackerone.com/discoliskosikari) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/hd18u7hmujm57suczajmruv2bb08/bc8a74b6586153c679be4d2af120e664b40c5bf9e6cc82a7f0f0ec52cc1bdbc4" width="50" height="50" style="border-radius:50%"/> | [ariel1l](https://hackerone.com/ariel1l) |
 
@@ -106,7 +106,7 @@ We acknowledge the contributions of top researchers. Below are those who have ea
 
 | Profile | Hacker |
 |---------|--------|
-| <img src="https://hackerone.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeGs3YlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a09378803e64c4160423b071b0b12fb0f9d985e8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2REdkeVlYWnBkSGxKSWd0RFpXNTBaWElHT3daVU9ndHlaWE5wZW1WSklnczJNbmcyTWw0R093WlVPZ2xqY205d1NTSU9Oako0TmpJck1Dc3dCanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--cc5eff819c90cf7574ae22d73647372b4ba134ef/IMG_0059%20(1)%20(Edited).jpg" width="50" height="50" style="border-radius:50%"/> | [gopi2202](https://hackerone.com/gopi2202) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/fnnwhrat322t67t20htvrnkat50i/db3ccc5a012de75c5cb817bc4e2a41ce2dc72af5298d29011cc3a22da1939441" width="50" height="50" style="border-radius:50%"/> | [gopi2202](https://hackerone.com/gopi2202) |
 
 ### February 2025
 
@@ -115,7 +115,7 @@ We acknowledge the contributions of top researchers. Below are those who have ea
 | <img src="/assets/avatars/default-14ffa99f59cd01423c64904352cc130ffcb6a802eadfd11777a54485749e60f2.png" width="50" height="50" style="border-radius:50%"/> | [lsxa](https://hackerone.com/lsxa) |
 | <img src="/assets/avatars/default-14ffa99f59cd01423c64904352cc130ffcb6a802eadfd11777a54485749e60f2.png" width="50" height="50" style="border-radius:50%"/> | [discoliskosikari](https://hackerone.com/discoliskosikari) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/ese0t9j4019i350exair1rq9syug/db3ccc5a012de75c5cb817bc4e2a41ce2dc72af5298d29011cc3a22da1939441" width="50" height="50" style="border-radius:50%"/> | [0xsheet](https://hackerone.com/0xsheet) |
-| <img src="https://hackerone.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFNWYVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cb7998da5a4e914c30b67bfcf2c49e8dbe7766c0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2REdkeVlYWnBkSGxKSWd0RFpXNTBaWElHT3daVU9ndHlaWE5wZW1WSklnczJNbmcyTWw0R093WlVPZ2xqY205d1NTSU9Oako0TmpJck1Dc3dCanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--cc5eff819c90cf7574ae22d73647372b4ba134ef/epic_smiley.jpg" width="50" height="50" style="border-radius:50%"/> | [erg0sum](https://hackerone.com/erg0sum) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/o9m7oh7icacf7g3pwc24rxnhhtwz/db3ccc5a012de75c5cb817bc4e2a41ce2dc72af5298d29011cc3a22da1939441" width="50" height="50" style="border-radius:50%"/> | [erg0sum](https://hackerone.com/erg0sum) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/jyF31fJppgzmNHbDpRMe23Ru/6354e538e08cb3baac4cf509e14d11db5bd7173a0916a48597cd56816c96ea39" width="50" height="50" style="border-radius:50%"/> | [d0xing](https://hackerone.com/d0xing) |
 
 
