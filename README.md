@@ -93,7 +93,7 @@ We acknowledge the contributions of top researchers. Below are those who have ea
 |---------|--------|
 | <img src="https://profile-photos.hackerone-user-content.com/variants/z216amz2dg3r4xq56oohvb355xd6/3cb67cc78dc0cba55b102dd9eca2ee89b206d3e960be830f070583d9070b69ef" width="50" height="50" style="border-radius:50%"/> | [cave14](https://hackerone.com/cave14) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/o9m7oh7icacf7g3pwc24rxnhhtwz/3cb67cc78dc0cba55b102dd9eca2ee89b206d3e960be830f070583d9070b69ef" width="50" height="50" style="border-radius:50%"/> | [erg0sum](https://hackerone.com/erg0sum) |
-| <img src="https://profile-photos.hackerone-user-content.com/variants/ub4omg23he5qq5zr7jtwb55depbb/3cb67cc78dc0cba55b102dd9eca2ee89b206d3e960be830f070583d9070b69ef" width="50" height="50" style="border-radius:50%"/> | [d-muhammed](https://hackerone.com/d-muhammed) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/wujyo1nneskyvxgbrajhwqw2gzk2/3cb67cc78dc0cba55b102dd9eca2ee89b206d3e960be830f070583d9070b69ef" width="50" height="50" style="border-radius:50%"/> | [dilosec](https://hackerone.com/dilosec) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/whpok62z8huc3sp494jwfa7ipeuj/3cb67cc78dc0cba55b102dd9eca2ee89b206d3e960be830f070583d9070b69ef" width="50" height="50" style="border-radius:50%"/> | [3th1c_yuk1](https://hackerone.com/3th1c_yuk1) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/ese0t9j4019i350exair1rq9syug/3cb67cc78dc0cba55b102dd9eca2ee89b206d3e960be830f070583d9070b69ef" width="50" height="50" style="border-radius:50%"/> | [0xsheet](https://hackerone.com/0xsheet) |
 
