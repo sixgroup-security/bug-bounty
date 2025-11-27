@@ -117,7 +117,7 @@ We acknowledge the contributions of top researchers. Below are those who have ea
 | Profile | Hacker |
 |---------|--------|
 | <img src="/assets/avatars/default-14ffa99f59cd01423c64904352cc130ffcb6a802eadfd11777a54485749e60f2.png" width="50" height="50" style="border-radius:50%"/> | [modc](https://hackerone.com/modc) |
-| <img src="https://profile-photos.hackerone-user-content.com/variants/r9hrceyebdqyfbbvao8e6z61vq19/3cb67cc78dc0cba55b102dd9eca2ee89b206d3e960be830f070583d9070b69ef" width="50" height="50" style="border-radius:50%"/> | [0xhacker1xox](https://hackerone.com/0xhacker1xox) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/vf3cqdp91y7oc7zton1frfv85cnk/c8a1698ff707a5e3e8a91a3484838363845daac68cb82c86d55c9e2d44d67b67" width="50" height="50" style="border-radius:50%"/> | [0xhacker1xox](https://hackerone.com/0xhacker1xox) |
 | <img src="/assets/avatars/default-14ffa99f59cd01423c64904352cc130ffcb6a802eadfd11777a54485749e60f2.png" width="50" height="50" style="border-radius:50%"/> | [discoliskosikari](https://hackerone.com/discoliskosikari) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/hd18u7hmujm57suczajmruv2bb08/8774a5031fc14b74dc4404da039040c69df8ed41021007c0c2beb9de489fcf66" width="50" height="50" style="border-radius:50%"/> | [ariel1l](https://hackerone.com/ariel1l) |
 
