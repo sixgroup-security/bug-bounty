@@ -75,6 +75,12 @@ For more details on our reward structure, visit the _[public bug bounty program 
 
 We acknowledge the contributions of top researchers. Below are those who have earned their place in the Hall of Fame:
 
+### December 2025
+
+| Profile | Hacker |
+|---------|--------|
+| <img src="https://profile-photos.hackerone-user-content.com/variants/jyF31fJppgzmNHbDpRMe23Ru/c8a1698ff707a5e3e8a91a3484838363845daac68cb82c86d55c9e2d44d67b67" width="50" height="50" style="border-radius:50%"/> | [d0xing](https://hackerone.com/d0xing) |
+
 ### October 2025
 
 | Profile | Hacker |
@@ -126,12 +132,6 @@ We acknowledge the contributions of top researchers. Below are those who have ea
 | Profile | Hacker |
 |---------|--------|
 | <img src="https://profile-photos.hackerone-user-content.com/variants/fnnwhrat322t67t20htvrnkat50i/3cb67cc78dc0cba55b102dd9eca2ee89b206d3e960be830f070583d9070b69ef" width="50" height="50" style="border-radius:50%"/> | [gopi2202](https://hackerone.com/gopi2202) |
-
-### February 2025
-
-| Profile | Hacker |
-|---------|--------|
-| <img src="/assets/avatars/default-14ffa99f59cd01423c64904352cc130ffcb6a802eadfd11777a54485749e60f2.png" width="50" height="50" style="border-radius:50%"/> | [lsxa](https://hackerone.com/lsxa) |
 
 
 
