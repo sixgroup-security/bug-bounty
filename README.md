@@ -91,7 +91,7 @@ We acknowledge the contributions of top researchers. Below are those who have ea
 
 | Profile | Hacker |
 |---------|--------|
-| <img src="https://profile-photos.hackerone-user-content.com/variants/jalx00zavuqwli9qsoe052h16na2/235acf2ba808c3a51a94888fb977392c26f8fb0ccf77a81a4546c5e4065c06f1" width="50" height="50" style="border-radius:50%"/> | [bughuntar](https://hackerone.com/bughuntar) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/5j1ds66zxm3gw0razszhkox6290c/235acf2ba808c3a51a94888fb977392c26f8fb0ccf77a81a4546c5e4065c06f1" width="50" height="50" style="border-radius:50%"/> | [bughuntar](https://hackerone.com/bughuntar) |
 | <img src="https://profile-photos.hackerone-user-content.com/variants/fnnwhrat322t67t20htvrnkat50i/3cb67cc78dc0cba55b102dd9eca2ee89b206d3e960be830f070583d9070b69ef" width="50" height="50" style="border-radius:50%"/> | [gopi2202](https://hackerone.com/gopi2202) |
 
 ### July 2025
