@@ -75,6 +75,12 @@ For more details on our reward structure, visit the _[public bug bounty program 
 
 We acknowledge the contributions of top researchers. Below are those who have earned their place in the Hall of Fame:
 
+### October 2026
+
+| Profile | Hacker |
+|---------|--------|
+| <img src="https://profile-photos.hackerone-user-content.com/variants/0yw1xj78lucmk0oz7ds32mn1po9r/33193aed4df168c753cb4b15e6d5d8d6ba053ba5ee3e8d1478c137162601abe9" width="50" height="50" style="border-radius:50%"/> | [godiego](https://hackerone.com/godiego) |
+
 ### September 2026
 
 | Profile | Hacker |
@@ -113,7 +119,7 @@ We acknowledge the contributions of top researchers. Below are those who have ea
 
 | Profile | Hacker |
 |---------|--------|
-| <img src="https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/o4gtutspuh9rvhrd0hgbgb2cirmm/f4770e29726b679d8210b3bcebb50139392345e8ead50e7d67de79a93076e327?response-content-disposition=inline%3B%20filename%3D%22Dwll89_P_400x400.jpeg%22%3B%20filename%2A%3DUTF-8%27%27Dwll89_P_400x400.jpeg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQGK6FURQWH6UJJBM%2F20261020%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261020T021411Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEG8aCXVzLXdlc3QtMiJHMEUCIQCkiB0OgwS8AOiRegexNOsrAhC%2BbLCcLte2pG7YF8%2BUYQIgN9oQywxtKUngVhcepn73gl1CNfnsvE43QwMBYAY70vAqsgUIOBADGgwwMTM2MTkyNzQ4NDkiDPSComV4l8HudCTNjCqPBeVjq5i%2Bt%2BqlxLB%2BeMfmSns6sybp75C16MNqgiEt%2FQuZNyiSZuq5w8ZqO8%2BViOAkbsXQj2csTqgv9lcaruVVNoEmu5Pho9Z1WckABiywgOg8mObw0%2FzwjWO5nEt86SQtzFGPZqEe0yd%2BLxgmKxFR%2BzX8f2Me3120FHRx0sTSl8TAgdVAPdhd67t38BZnnMjI8ipmm6z7PNQEyp3GV%2FpnwaND1e%2BsaFgHWh16V4zBFOqdIkYx1AZ8NnwaTwXj1jjhNDUlmHSIvmYU0RtzX5DqdHwBO0w4bgAuwa5%2FYGzB1m%2BKIkBcvuYRO3DJa3z2pkIQAI%2FOfu3doW7bocqM5IsozDW8btZEpwrwGW6102ZvGbEo8SUmfXuXNhPWAS4e6DWScCmSS7dpRP04zpQRTit4vcIeUMaOVeJcv8O7n0Y0V7Kxmu01%2FxHtSVpfrxonj%2FUqKZPvTw6B8x8O%2BrppZ%2FhP31y21NDSK5zI2F3btzEMB7eakILx0yzYBFY0ffvb9v%2BifG%2FV1nm0NoU%2FQdUbEhAkHOP2XwC2GEYD3XKO1RS4X8N9%2BIUpU1gsReTUyy6IrYh8U0KkHLQy2i84D1scsFn6CKWaRaUheh7AW7Hb4Q%2Bxaxrx0Lj9fAOFugNxGzx%2BU3iBX6Few7C7Y0GRzDIWJMok9B8JS5QW25U%2B30ka7PkXfQ5cTj2br7oVoKbyEPNYBTA%2FMa5uGlP2ppAdULX4dMPVz4N90xjFPxaWhETKz50MDchcHUVXUq9VPDeucNkE9jLpHZbgE2ltukIqpjDLHXMKAofiPKt37PiAkhVmmJ0jHGpyUN9DgpIZVrb07GW4K3ctP6dvc9sNIoZiBfR3xnCsa4CIQRmbdF7klRQ5Qka0wSEwh7fa1gY6sQHEffM%2B3jShndPRdhQPBUYKodaIx1hXlMcEaND01RUknDHq2LQH9dsIadlkK4Gw7oxqW5j%2Bb4pT0A28I9HO2dNFEyZc5A4yARwvigUxk8kame4lgqh6lKhbBM4EmSY4EtRXJc2ROF6Tqr6k9PVCZ0Vxq2DCAkimFjINnFDGnZE%2BtroRew4ECuxxzf3K%2BREo29xLd5mmCbWvBzK%2FnElyc3vYz%2F49s8fhpI7LScXrCE5LBm8%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=20c4d898994942977d803f74165883850ddae65940f8b78e2a04c4b7fad39888" width="50" height="50" style="border-radius:50%"/> | [xsam](https://hackerone.com/xsam) |
+| <img src="https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/o4gtutspuh9rvhrd0hgbgb2cirmm/f4770e29726b679d8210b3bcebb50139392345e8ead50e7d67de79a93076e327?response-content-disposition=inline%3B%20filename%3D%22Dwll89_P_400x400.jpeg%22%3B%20filename%2A%3DUTF-8%27%27Dwll89_P_400x400.jpeg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQGK6FURQUGSSIIJ4%2F20261021%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261021T020740Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIC2UsHkp%2F9gLYFApfEIpIUP3xyLqSuboxkUaR7xAG1C%2FAiAQ1WT4FAEGj%2FIPFy9syjcgWXXVi4dcWgJFfxkypNxsVCqyBQhTEAMaDDAxMzYxOTI3NDg0OSIMCM6SFUjk5J7Y0zoMKo8F3LNUR%2FfgYQvc%2BacjsqFKU%2FY6XSPZacU97NapIO88WkirfU88TguBlMibjBkjhxaxB1ulm1r9Icx5e6Fs7vwtrchScuhDH5ByOcPDHGQOzCA4NixvqlYjWExDocHzxiP3uEDc3SblmSuR6%2FefSBKjWO%2BQi3mFrrHfwNcQG7wDs04xFpmc6PR0JSsWLDa4a5CCPhV4pRfA8%2BIZyBO9jriLOWVZT%2BYsFd788pVeuQ3GN9Y9Yy2NHYEa3bBKCkRflVNWcoT8JU7X%2BUOpLR7%2BXKkNi2YrF8cY%2BhL1hgK3DjXgjU3jybrpiCE3J0IsbAw1EM7cbU4XOxiQoaolDpaIQ5TSdNli9ViTtAqhsaafxKCqh0UoIOe7VDLUZJWXwRDjx3X0jAejOuyvHO4%2FqWQLtshdAUQycsmAkjwi492maf1Gy7WkoLpEFMYd2dSXJkrph7h4U5yPEL%2BVIu7dHhRj%2B4YMH5JbYAqXMdfJjL3J%2BtUE%2BmMBDzFvUER26pe6Gv3Er3o0r5QRip4o99Jhn2Q%2F98lQk73Chkhlxll4bwZ9x8Qo%2FWdDcnOOzrBg0IKBXW6AQC7MTPPUbrH4cl58Boo6NK3%2B4MmQYgx0bwqh9d2SPic8NY59hRga1WtKZlCH%2B8W1BzmBa2D1YY0YJHmmMPxf5Y7Wrm5gJGo3P5pOV3nFZ39TkgC8p8tC08%2FiIlFHgpZGuOkWj7BC3jy0830gENS%2FBpPgk5hrYBbmmp53dKsy1OJo8AaPXyRCQuqRFgfVuCOUQkovEjuIOa8DR4zEmXNUeuEkxwFY%2FORkuDzguzHMfmfdDeHjHjqIVgGDnNw%2Fu1cJar8KosFBr131jB30Pf2BdqnfA5rIuHu4Ecr3E4wSQ6AkgTDiqODWBjqyAcS7YDOSeJitKebnzQbD1ogVq63TprhJNgCkqeOga73kr2VU645Dt96w2naHg9tX3kuHztlC5V%2Fl2G0ZW%2Fofnjj1w2lIKgSnPH%2Ffiaac0oMNae7uM5Th58UAZCdI0XhI4rWUEdN8Mg1crcBrELWAOxlTdEoEk%2FxFXZ%2B6HmGw9aaHQ%2BXmM6nsnpuyJkI%2FOYCVEBbZO7zmQegSsShCeMIaWCtNmts3ge1hrBupepEgPo3FRVA%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=8a366f10faa77de525ead4a9fc1dc7d8fc333b4576c27bceb6f43edccd38012a" width="50" height="50" style="border-radius:50%"/> | [xsam](https://hackerone.com/xsam) |
 
 ### December 2025
 
@@ -150,7 +156,6 @@ We acknowledge the contributions of top researchers. Below are those who have ea
 | Profile | Hacker |
 |---------|--------|
 | <img src="https://profile-photos.hackerone-user-content.com/variants/z216amz2dg3r4xq56oohvb355xd6/33193aed4df168c753cb4b15e6d5d8d6ba053ba5ee3e8d1478c137162601abe9" width="50" height="50" style="border-radius:50%"/> | [cave14](https://hackerone.com/cave14) |
-| <img src="https://profile-photos.hackerone-user-content.com/variants/o9m7oh7icacf7g3pwc24rxnhhtwz/33193aed4df168c753cb4b15e6d5d8d6ba053ba5ee3e8d1478c137162601abe9" width="50" height="50" style="border-radius:50%"/> | [erg0sum](https://hackerone.com/erg0sum) |
 
 
 
