@@ -80,65 +80,65 @@ We acknowledge the contributions of top researchers. Below are those who have ea
 | Profile | Hacker |
 |---------|--------|
 | <img src="/assets/avatars/default-14ffa99f59cd01423c64904352cc130ffcb6a802eadfd11777a54485749e60f2.png" width="50" height="50" style="border-radius:50%"/> | [satesferix0x](https://hackerone.com/satesferix0x) |
-| <img src="https://profile-photos.hackerone-user-content.com/variants/0yw1xj78lucmk0oz7ds32mn1po9r/33193aed4df168c753cb4b15e6d5d8d6ba053ba5ee3e8d1478c137162601abe9" width="50" height="50" style="border-radius:50%"/> | [godiego](https://hackerone.com/godiego) |
-| <img src="https://profile-photos.hackerone-user-content.com/variants/5w30ig5hltda1z5k5x6ekb0vbr9w/33193aed4df168c753cb4b15e6d5d8d6ba053ba5ee3e8d1478c137162601abe9" width="50" height="50" style="border-radius:50%"/> | [iieitaimuss](https://hackerone.com/iieitaimuss) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/0yw1xj78lucmk0oz7ds32mn1po9r/07cd666fba81a5fa22acb6ca51c9388fb3fc6282d31bb7100e43ac54f865f93e" width="50" height="50" style="border-radius:50%"/> | [godiego](https://hackerone.com/godiego) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/5w30ig5hltda1z5k5x6ekb0vbr9w/07cd666fba81a5fa22acb6ca51c9388fb3fc6282d31bb7100e43ac54f865f93e" width="50" height="50" style="border-radius:50%"/> | [iieitaimuss](https://hackerone.com/iieitaimuss) |
 
 ### September 2026
 
 | Profile | Hacker |
 |---------|--------|
-| <img src="https://profile-photos.hackerone-user-content.com/variants/bis17jzpi477p9srza6jw2t6lvvm/33193aed4df168c753cb4b15e6d5d8d6ba053ba5ee3e8d1478c137162601abe9" width="50" height="50" style="border-radius:50%"/> | [mysanismine](https://hackerone.com/mysanismine) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/bis17jzpi477p9srza6jw2t6lvvm/07cd666fba81a5fa22acb6ca51c9388fb3fc6282d31bb7100e43ac54f865f93e" width="50" height="50" style="border-radius:50%"/> | [mysanismine](https://hackerone.com/mysanismine) |
 | <img src="/assets/avatars/default-14ffa99f59cd01423c64904352cc130ffcb6a802eadfd11777a54485749e60f2.png" width="50" height="50" style="border-radius:50%"/> | [secure0](https://hackerone.com/secure0) |
-| <img src="https://profile-photos.hackerone-user-content.com/variants/28pc36j0zqx2zyc6y0xey8ryai3e/dd1dfc8fc7352772e4a8994c07e1d628d34edc74db48377c707f10829dc23d53" width="50" height="50" style="border-radius:50%"/> | [hipotermia](https://hackerone.com/hipotermia) |
-| <img src="https://profile-photos.hackerone-user-content.com/variants/yee6cyY5FtBs37YGSaoF5nc7/33193aed4df168c753cb4b15e6d5d8d6ba053ba5ee3e8d1478c137162601abe9" width="50" height="50" style="border-radius:50%"/> | [twelvesix](https://hackerone.com/twelvesix) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/28pc36j0zqx2zyc6y0xey8ryai3e/bcd838120b083f3e4634394be4e842b070658eb8ca2ee90ff88b1e7555d99fdf" width="50" height="50" style="border-radius:50%"/> | [hipotermia](https://hackerone.com/hipotermia) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/yee6cyY5FtBs37YGSaoF5nc7/07cd666fba81a5fa22acb6ca51c9388fb3fc6282d31bb7100e43ac54f865f93e" width="50" height="50" style="border-radius:50%"/> | [twelvesix](https://hackerone.com/twelvesix) |
 
 ### July 2026
 
 | Profile | Hacker |
 |---------|--------|
 | <img src="/assets/avatars/default-14ffa99f59cd01423c64904352cc130ffcb6a802eadfd11777a54485749e60f2.png" width="50" height="50" style="border-radius:50%"/> | [pipounet](https://hackerone.com/pipounet) |
-| <img src="https://profile-photos.hackerone-user-content.com/variants/x0pgk7d8upnfs9ovw8vzushae9az/f4770e29726b679d8210b3bcebb50139392345e8ead50e7d67de79a93076e327" width="50" height="50" style="border-radius:50%"/> | [ath75](https://hackerone.com/ath75) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/x0pgk7d8upnfs9ovw8vzushae9az/2115537ecc06666dae3f3c47b8810d596dc1f01bc798a7de7f66d30a33f0d354" width="50" height="50" style="border-radius:50%"/> | [ath75](https://hackerone.com/ath75) |
 
 ### June 2026
 
 | Profile | Hacker |
 |---------|--------|
-| <img src="https://profile-photos.hackerone-user-content.com/variants/i2qiv14qfsnxgu49qcqw4f7pja7i/dd1dfc8fc7352772e4a8994c07e1d628d34edc74db48377c707f10829dc23d53" width="50" height="50" style="border-radius:50%"/> | [0xd0m7](https://hackerone.com/0xd0m7) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/i2qiv14qfsnxgu49qcqw4f7pja7i/bcd838120b083f3e4634394be4e842b070658eb8ca2ee90ff88b1e7555d99fdf" width="50" height="50" style="border-radius:50%"/> | [0xd0m7](https://hackerone.com/0xd0m7) |
 
 ### May 2026
 
 | Profile | Hacker |
 |---------|--------|
-| <img src="https://profile-photos.hackerone-user-content.com/variants/ywekexrppnheog8xbb478e24il6e/33193aed4df168c753cb4b15e6d5d8d6ba053ba5ee3e8d1478c137162601abe9" width="50" height="50" style="border-radius:50%"/> | [curiositysec](https://hackerone.com/curiositysec) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/ywekexrppnheog8xbb478e24il6e/07cd666fba81a5fa22acb6ca51c9388fb3fc6282d31bb7100e43ac54f865f93e" width="50" height="50" style="border-radius:50%"/> | [curiositysec](https://hackerone.com/curiositysec) |
 
 ### February 2026
 
 | Profile | Hacker |
 |---------|--------|
-| <img src="https://profile-photos.hackerone-user-content.com/variants/XrUiKaaoYW7g2Qv65fu44t1L/33193aed4df168c753cb4b15e6d5d8d6ba053ba5ee3e8d1478c137162601abe9" width="50" height="50" style="border-radius:50%"/> | [mikemyers](https://hackerone.com/mikemyers) |
-| <img src="https://profile-photos.hackerone-user-content.com/variants/k52p2yhganjk6taf3od2cvjbj2oq/33193aed4df168c753cb4b15e6d5d8d6ba053ba5ee3e8d1478c137162601abe9" width="50" height="50" style="border-radius:50%"/> | [securityreapers](https://hackerone.com/securityreapers) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/XrUiKaaoYW7g2Qv65fu44t1L/07cd666fba81a5fa22acb6ca51c9388fb3fc6282d31bb7100e43ac54f865f93e" width="50" height="50" style="border-radius:50%"/> | [mikemyers](https://hackerone.com/mikemyers) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/k52p2yhganjk6taf3od2cvjbj2oq/07cd666fba81a5fa22acb6ca51c9388fb3fc6282d31bb7100e43ac54f865f93e" width="50" height="50" style="border-radius:50%"/> | [securityreapers](https://hackerone.com/securityreapers) |
 | <img src="/assets/avatars/default-14ffa99f59cd01423c64904352cc130ffcb6a802eadfd11777a54485749e60f2.png" width="50" height="50" style="border-radius:50%"/> | [b0om](https://hackerone.com/b0om) |
 
 ### January 2026
 
 | Profile | Hacker |
 |---------|--------|
-| <img src="https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/o4gtutspuh9rvhrd0hgbgb2cirmm/f4770e29726b679d8210b3bcebb50139392345e8ead50e7d67de79a93076e327?response-content-disposition=inline%3B%20filename%3D%22Dwll89_P_400x400.jpeg%22%3B%20filename%2A%3DUTF-8%27%27Dwll89_P_400x400.jpeg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQGK6FURQ257D7OVY%2F20261118%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261118T044745Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECwaCXVzLXdlc3QtMiJHMEUCIGv9C2X4tRIrQfP3ce8HBF8Eagfg0j%2BZJBxqkhotfcKJAiEAwYj26VmZq7A33gzmq%2Bi46r%2Fq%2BbE%2F2fo2BbQlnP2yC%2FEqugUI9f%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARADGgwwMTM2MTkyNzQ4NDkiDJZJ%2Fz6XCRF3ggr3%2BCqOBRucVcih1Ohe%2BrhJx3G9qi700VMxjrPerPnFaT8TGbtY1r0HmvigVaBT6QxIja2TyZfvc3HA87B6cA9C%2FJlGKLrGaH%2BTcewsFVqmonzH1NbQyWDZSK7Zbv%2FbuBz7uGGLpQrTK5q0yvMrAlqEVzEZdEWI0X8upBqaYNpYY2AfjrF9POKEC25hcW%2FmyySK%2BXnjBUHxaMRi49w8Cq2%2BzYRLVMZ6sGCYO%2FMo8yqSf6sKNuiO%2BgQdxzDL3c6fNLzPjv%2BstYyNaMQmnmkgTtdVvSaJJ4GOefWhXsaIXtMFanniZry43Bzxq0IoD3P9mz1qG5UuwqhilxONb8U60fbEf3Iw%2Bi8JTfEBawMnmoXsljy3Gp8%2B7MOuXpebQLaQzLKCMejuHIlSZeU6gGlYAYpR%2BdcuZ7Qf2EldcQ2T3vlTcVg14aRfEvrUe7v%2BOV7NXmdDBn9Bz6gOynER%2BBxdEW9itOyJL6lu0ZRA4A81Ik%2F2njvs9q8Qh%2FlbVmB6k8dX4iBgyP9dlC1PkBDRzqvPQpHBuIDO5S06%2BBAufYX3P7bEZh4sZ9B%2B%2FmoaUaAdLeWhtLB4JBqBQITjD9CiJIRoPmOH%2BwJSKcp1516u3JkA9QjVj2Ir%2FoKcRL0UlwYFbS4zENEK2OpxOm7z8kqBJXBfZneO478GZzznovVz1Gjj5XmK03VGYdILbAwOx1qzwDKsonhgFFZWSztAvsKW9caNlV2QZ6olvZZLhZkVcDCUgNZYvD51vbemq%2Burdl7AlP%2Bq2q3RHFrEoTiAdINLzL2Q9I3mtUfcsFy6wR4N9vceY9U%2Bld6dUFQDDEdvbvzQRkNeeBx2U%2F6d7EEQXdfEjJqB5xLu7DnaiuGRn3uevxz1vmBCNlz91TDUs%2FTXBjqxAcADJ15nt6EA6XhZEPCV9EdGHgDCP%2BM5SUm9IBo6dKtS%2FSLOlQICir%2FvCga%2Bb6d1Y8eKk97w6T8Ej6cT%2B1i432EBJrOvzwe24nR5litQkaSdjrn5uR5IHLnSy2JzgiLVjIK4QMQPT0jmX0JI12VLUr43kSkuYu5FSVCKabW5K4w5cgfDGkYbZ1q3UnJuflDrJKdawlHb2imtKWgjfOflmiCdvmM92rDZpwCYEncHyf1R2A%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b5428176ee8ab4a80050ddb021cd1234016b8c7ce1ff1c8623e9b7bb6c36407b" width="50" height="50" style="border-radius:50%"/> | [xsam](https://hackerone.com/xsam) |
+| <img src="https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/variants/o4gtutspuh9rvhrd0hgbgb2cirmm/2115537ecc06666dae3f3c47b8810d596dc1f01bc798a7de7f66d30a33f0d354?response-content-disposition=inline%3B%20filename%3D%22Dwll89_P_400x400.jpeg%22%3B%20filename%2A%3DUTF-8%27%27Dwll89_P_400x400.jpeg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQGK6FURQUNQ7YBFI%2F20261119%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261119T043852Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEMaCXVzLXdlc3QtMiJGMEQCIF%2FwaQBUMmISAj%2Byi4ay80WwlAsT5odzAAFZhXEI%2FaCqAiBYjRpUmcr1K2oTnEnXkh1iE93d2XNTzq62jktenrzJTiqyBQgMEAMaDDAxMzYxOTI3NDg0OSIMKKiqRmL8gzCHCbm0Ko8Fnib%2FZVlcVmN4Fnjj39G0GRZaIbKlbuKg%2B0p2IVgDZLLsBH%2BzFeGrzPXy4dfMnu12S0cno9fhB5EKO5pTu7pMUhvwgbXEDEUo71HIsD19blfjB2OZ%2Bn5vgIJtds6buajXWWb%2FJW0Aa4DHBipZFbxNDMcWzO%2BZ38G%2BL50qFPSJtK1aFdhr7UqjyOcxi277XRjrF5YEDZBBBJfO6y1MX9zs5UQ2d88AzTJJjUKBHRyKcQNduUbCGPG4WO94%2Fu5r1AyvUOCf%2Bbvyyfz1mpHgreYtozcv1ff10bKyNPeBbOKZZGFEIcMHgb6emJrcE%2Fww3NtzHTAqRA7NGl5RCJ0pMADxBqr5%2FL%2FoUlaNLzz%2Bk8MNjCbO%2FYvdPgD84Hshxh8IIcQ%2BeI6jNIqTjzqDpcfdczqFsL0Rkc7oUgu27xsX0oZlglAexmRegTjqiXOL6UhPUnMidvp2Mp%2BFCIYkKq0rgbE0faTf84QtoFaXqbHGpFXj2fuHeDVFAVnqZp1twXSCeu4GdG5zMXz0TJyhFu7UTYUtK0TGO7PxTgFaVwkxo4Sv8QFGEmMM480KojochCGbnB%2BY1m6PL%2BufgrSMtHeRVX8uoq3VtO%2FvcJJgG3Yu%2F53a92bfVPxBBmwoGvcH%2F6bFSbKV805VBv%2BQxlycB7snvp8jOs0vYN3bqfbOZd52iD32iGsdY22rdyDgVivPzPtaPz1P1HUTX7jEA%2FXD3aDEWK%2FSV6HhHo1CnLauG9bIMu2mJ8aAvYtNH57sbfGbY%2BtJW3dsalDsNXvY1Z%2FVSUIGVvKd73iBAqav%2F3BOLk%2BLVNpnNgzNUg9jOCUwKK7oFgKo1ix9AaG8174m12F85Ivgh%2FR2NWssh16zyBWTVKewiOchlTD80%2FnXBjqyAYIC5YsiBtmmwJi7qa4pl8utCyucL3dY40cRCWx%2BO6KQpUtS0B6Tmqdx2C2cjV3ApE6hH9kHjEO3DaHFJAbO%2BlPto0nU8lsJdDQRGnmhdaGirMWocWzUjmrkH6bg1oXZ%2FtPIUEXT1mmTuf0JpZWY70TY9JKY6tvlw%2FDbS6F2coqW1PC7BtvO61BMbIDhBRM9GE5d3s%2FCZo2VM0G%2BoOMNuP5o2A1ZHBiGybwJGYg49hvuAI4%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=5a6ca862351c586e16a72dccfa9552cef533aa4be1fcb52b7abcd52b81909809" width="50" height="50" style="border-radius:50%"/> | [xsam](https://hackerone.com/xsam) |
 
 ### December 2025
 
 | Profile | Hacker |
 |---------|--------|
-| <img src="https://profile-photos.hackerone-user-content.com/variants/x14ufg7k29bcx4nibrl66pqw55qs/33193aed4df168c753cb4b15e6d5d8d6ba053ba5ee3e8d1478c137162601abe9" width="50" height="50" style="border-radius:50%"/> | [ghostn7](https://hackerone.com/ghostn7) |
-| <img src="https://profile-photos.hackerone-user-content.com/variants/jyF31fJppgzmNHbDpRMe23Ru/f4770e29726b679d8210b3bcebb50139392345e8ead50e7d67de79a93076e327" width="50" height="50" style="border-radius:50%"/> | [d0xing](https://hackerone.com/d0xing) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/x14ufg7k29bcx4nibrl66pqw55qs/07cd666fba81a5fa22acb6ca51c9388fb3fc6282d31bb7100e43ac54f865f93e" width="50" height="50" style="border-radius:50%"/> | [ghostn7](https://hackerone.com/ghostn7) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/jyF31fJppgzmNHbDpRMe23Ru/2115537ecc06666dae3f3c47b8810d596dc1f01bc798a7de7f66d30a33f0d354" width="50" height="50" style="border-radius:50%"/> | [d0xing](https://hackerone.com/d0xing) |
 
 ### October 2025
 
 | Profile | Hacker |
 |---------|--------|
 | <img src="/assets/avatars/default-14ffa99f59cd01423c64904352cc130ffcb6a802eadfd11777a54485749e60f2.png" width="50" height="50" style="border-radius:50%"/> | [lsxa](https://hackerone.com/lsxa) |
-| <img src="https://profile-photos.hackerone-user-content.com/variants/o9m7oh7icacf7g3pwc24rxnhhtwz/33193aed4df168c753cb4b15e6d5d8d6ba053ba5ee3e8d1478c137162601abe9" width="50" height="50" style="border-radius:50%"/> | [erg0sum](https://hackerone.com/erg0sum) |
-| <img src="https://profile-photos.hackerone-user-content.com/variants/53fav7v4hrnypmbw2kvar239nubu/33193aed4df168c753cb4b15e6d5d8d6ba053ba5ee3e8d1478c137162601abe9" width="50" height="50" style="border-radius:50%"/> | [dia2diab](https://hackerone.com/dia2diab) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/o9m7oh7icacf7g3pwc24rxnhhtwz/07cd666fba81a5fa22acb6ca51c9388fb3fc6282d31bb7100e43ac54f865f93e" width="50" height="50" style="border-radius:50%"/> | [erg0sum](https://hackerone.com/erg0sum) |
+| <img src="https://profile-photos.hackerone-user-content.com/variants/53fav7v4hrnypmbw2kvar239nubu/07cd666fba81a5fa22acb6ca51c9388fb3fc6282d31bb7100e43ac54f865f93e" width="50" height="50" style="border-radius:50%"/> | [dia2diab](https://hackerone.com/dia2diab) |
 | <img src="/assets/avatars/default-14ffa99f59cd01423c64904352cc130ffcb6a802eadfd11777a54485749e60f2.png" width="50" height="50" style="border-radius:50%"/> | [modc](https://hackerone.com/modc) |
 
 
